@@ -5,22 +5,17 @@
 
 .Econtainer1{
     position: relative;
-    margin: 200px 541px;
+    margin: 20px 541px;
     
 }
-#Eregister{
-    position: relative;
-    left: 60px;
-    font-size: 20px;
-  
-}
+
 .Ebtn{
     display: block;
     width: 70%;
     border: none;
     position: relative;
-    margin: 9px 0px;
-    left: 47px;
+    margin: 40px 80px;
+    left: -20px;
     background-color: #04b474;
     text-align: center;
     color: white;
@@ -33,16 +28,21 @@
     background-color: #ddd;
     color: black;
   }
-#Eaddress{
-    margin: 25px 0px;
-    border-radius: 10px;
-    padding-left: 15px;
 
-}
 .Econtainer{
     font-weight: bold;
 }
+
+.contract{
+    margin:10px 110px;
+}
+.address{
+    margin: 10px 30px;
+    font-weight: 500;
+}
 .Estatus{
     position: relative;
-    margin: 30px 120px;
+    font-weight: 600;
+    bottom: 400px;
+    right: 320px;
 }

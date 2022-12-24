@@ -1,4 +1,4 @@
-const Fund = artifacts.require("./Em_trans.sol");
+const Fund = artifacts.require("./invoice.sol");
 
 module.exports = function (deployer) {
   deployer.deploy(Fund);
